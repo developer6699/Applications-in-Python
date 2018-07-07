@@ -1,5 +1,5 @@
 # Guessing game
-# Player have to guess the number
+# Player have to guess the number with in 10 chances
 # If number is guessed the program will terminate
 # Player can quit the game by entering zero
 
