@@ -1,4 +1,4 @@
-#Estimating pi value using Monte carlo method
+#Estimating the pi value using Monte carlo method
 
 import numpy as np
 from numpy.random import random
